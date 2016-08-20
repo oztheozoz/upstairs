@@ -1,0 +1,240 @@
+a:visited 
+{
+	color: #000000;
+	text-decoration : none;
+}
+
+a:link 
+{
+	color: #000000;	
+	text-decoration : none;
+}
+
+a:hover 
+{
+	color: #F8DA00;
+	text-decoration : none;
+}
+
+a:active 
+{
+	color: #000000;
+	text-decoration : none;
+}
+
+a.res:visited 
+{
+	color: #766E2A;
+	text-decoration : none;
+}
+
+a.res:link 
+{
+	color: #766E2A;	
+	text-decoration : none;
+}
+
+a.res:hover 
+{
+	color: #F8DA00;
+	text-decoration : none;
+}
+
+a.res:active 
+{
+	color: #766E2A;
+	text-decoration : none;
+}
+
+#header
+{
+	font: 18pt Verdana, Arial, Helvetica, sans-serif;
+	position: relative;
+	width: 969px;
+	height: 176px;
+	margin: 10px auto 0px auto;
+}
+
+#logo
+{
+	width: 300px;
+	height: 176px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+#topNavContainer
+{
+	position: absolute;
+	width: 780px;
+	height: 50px;
+	left: 310px;
+	bottom: -2px;
+}
+
+#topNav li
+{
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
+}
+
+#splashMain
+{
+	width: 969px;
+	height: 485px;
+	margin: 52px auto;
+}
+
+#homeMain
+{
+	width: 969px;
+	height: 452px;
+	margin: 52px auto;
+}
+
+#homeCol1
+{
+	float: left;
+	width: 300px;
+}
+
+#homeCol2
+{
+	width: 450px;
+	margin-left: 352px;
+}
+
+#ambMain
+{
+	position: relative;
+	width: 969px;
+	height: 404px;
+	margin: 52px auto;
+}
+
+#ambCol1 > div
+{
+	margin: 0px 0px 52px 0px;
+}
+
+#ambRow1
+{
+	position: absolute;
+	width: 618px;
+	margin-left: 352px;
+	bottom: 0px;
+}
+
+#ambCol1
+{
+	float: left;
+	width: 300px;
+}
+
+#ambCol2
+{
+	width: 450px;
+	margin-left: 352px;
+}
+
+#menuMain
+{
+	position: relative;
+	width: 969px;
+	margin: 52px auto;
+}
+
+#menuCol1 > div
+{
+	margin: 0px 0px 10px 0px;
+}
+
+#menuCol1
+{
+	float: left;
+	width: 300px;
+}
+
+#menuCol2
+{
+	width: 450px;
+	margin-left: 352px;
+}
+
+#resMain
+{
+	position: relative;
+	width: 969px;
+	height: 485px;
+	margin: 52px auto;
+}
+
+#resChef
+{
+	float: left;
+	width: 466px;
+}
+
+#resAddy
+{
+	font: 26pt Verdana, Arial, Helvetica, sans-serif;
+	text-align: right;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+#resContact
+{
+	position: absolute;
+	left: 506px;
+	bottom: 171px;
+}
+
+#resContactTitle
+{
+	font: 20pt Verdana, Arial, Helvetica, sans-serif;
+}
+
+#resContactMain
+{
+	font: 16pt Verdana, Arial, Helvetica, sans-serif;
+}
+
+#locMain
+{
+	position: relative;
+	width: 969px;
+	height: 610px;
+	margin: 52px auto;
+}
+
+#locDirectionsMain li
+{
+	list-style-type: none;
+}
+
+#locMap
+{
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+
+#locDirectionsTitle
+{
+	font: 14pt Verdana, Arial, Helvetica, sans-serif;
+}
+
+#home #header li .home, #ambiance #header li .ambiance, #menu #header li .menu, #reservations #header li .reservations, #location #header li .location
+{
+	color: #F8DA00;
+}
+
+
+html, body
+{
+	font: 12pt Verdana, Arial, Helvetica, sans-serif;
+}
